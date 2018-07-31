@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirebaseDemo</string>
+    <string name="title_activity_feed">FeedActivity</string>
+    <string name="title_activity_feed_display">FeedDisplayActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
